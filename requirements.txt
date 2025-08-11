@@ -1,0 +1,15 @@
+pip install numpy==1.21.6
+pip install pandas==1.3.5
+pip install matplotlib==3.1.1
+pip install Django==2.1.7
+pip install scikit-learn==0.22.2.post1
+pip install seaborn==0.12.2
+pip install nltk==3.4.5
+pip install spacy==2.2.4
+pip install en-core-web-sm==https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz#sha256=60b69065c97fd2e4972c33300205e1dead3501d2e0bfd6a182c3a033e337caee
+pip install xgboost==1.6.2
+pip install svaderSentiment==3.3.2
+
+
+
+
